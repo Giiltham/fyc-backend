@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fyc-backend"
+name = "fyc_backend"
 version = "0.1.0"
 description = ""
 authors = ["Cédric Brunet <brunetced42@gmail.com>"]
